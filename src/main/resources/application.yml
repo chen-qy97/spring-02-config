@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+#对象
+student:
+  name: qinjiang
+  age: 3
+
+#行内写法
+student1: {name: qinjiang, age: 3}
